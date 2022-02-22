@@ -29,52 +29,51 @@ You may need to wait for a while when compiling and generating executable files.
 #### 1. Game of life simulator
 
 To use the simulator, you need to open the executable file:
-        
-        ```
-        $ cd build
-        ```
-        
+
+```
+$ cd build
+```
+
 (Do this if your terminal is not under build folder)
 
-        ```
-        $ ./bin/gofSimulator [parameter]
-        ```
+```
+$ ./bin/gofSimulator [parameter]
+```
 
 Optional parameters: 
 
-&emsp;&emsp;[1] : Obtain the initial conditions from a text file.
+​		[1] : Obtain the initial conditions from a text file.
 
-&emsp;&emsp;&emsp;&emsp;example: 
-        
+​				example: 
+
 ```
-$ ./bin/gofSimulator 1
-Please enter the file path:
->> ../Testing/Data/glider.txt
-Please enter the number of generations:
->> 5
-...
+1. 	$ ./bin/gofSimulator 1
+    Please enter the file path:
+2.  >> ../Testing/Data/glider.txt
+    Please enter the number of generations:
+3.  >> 5
+    ...
 ```
-                
-&emsp;&emsp;[2] : Starting with random cell contents for the initial conditions.
 
-&emsp;&emsp;&emsp;&emsp;example: 
-        
-                ```
-                $ ./bin/gofSimulator 2
-                Please enter the grid size and alive cells number:
-                >> 4 4 8
-                Please enter the number of generations:
-                >> 5
-                ...
-                ```
+​		[2] : Starting with random cell contents for the initial conditions.
 
-    [-h/--help] : Show the help information.
+​				example: 
 
+```
+1. 	$ ./bin/gofSimulator 2
+	Please enter the grid size and alive cells number:
+2. 	>> 4 4 8
+	Please enter the number of generations:
+3. 	>> 5
+	...
+```
 
+​		[-h/--help] : Show the help information.
 
 
 
-2. Find still lives
+
+#### 2. Find still lives
 
 
 ## License
