@@ -29,14 +29,14 @@ You may need to wait for a while when compiling and generating executable files.
 1. Game of life simulator
 
 To use the simulator, you need to open the executable file:
-```
-$ cd build
-```
+        ```
+        $ cd build
+        ```
 (Do this if your terminal is not under build folder)
 
-```
-$ ./bin/gofSimulator [parameter]
-```
+        ```
+        $ ./bin/gofSimulator [parameter]
+        ```
 
 Optional parameters: 
 
