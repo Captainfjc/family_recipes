@@ -40,9 +40,9 @@ $ ./bin/gofSimulator [parameter]
 
 Optional parameters: 
 
-[1] : Obtain the initial conditions from a text file.
+&emsp;&emsp;[1] : Obtain the initial conditions from a text file.
 
-example: 
+&emsp;&emsp;&emsp;&emsp;example: 
         
 ```
 $ ./bin/gofSimulator 1
