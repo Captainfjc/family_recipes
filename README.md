@@ -55,9 +55,10 @@ Please enter the number of generations:
 ...
 ```
                 
-    [2] : Starting with random cell contents for the initial conditions.
+&emsp;&emsp;[2] : Starting with random cell contents for the initial conditions.
 
-        example: 
+&emsp;&emsp;&emsp;&emsp;example: 
+        
                 ```
                 $ ./bin/gofSimulator 2
                 Please enter the grid size and alive cells number:
