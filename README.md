@@ -1,7 +1,7 @@
 PHAS0100ASSIGNMENT1
 ------------------
 
-<img src="https://img.shields.io/badge/language-C++-<#4F5D95>.svg"/>
+<img src="https://img.shields.io/badge/language-C++-<#FF69B4>.svg"/>
 
 
 
