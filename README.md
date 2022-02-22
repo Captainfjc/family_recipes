@@ -3,7 +3,7 @@ PHAS0100ASSIGNMENT1
 
 [![Build Status](https://travis-ci.com/[USERNAME]/PHAS0100Assignment1.svg?branch=master)](https://travis-ci.com/[USERNAME]/PHAS0100Assignment1)
 [![Build Status](https://ci.appveyor.com/api/projects/status/[APPVEYOR_ID]/branch/master)](https://ci.appveyor.com/project/[USERNAME]/PHAS0100Assignment1)
-<img src="https://img.shields.io/badge/<language>-<C++>-<#F34B7D>.svg"/>
+<img src="https://img.shields.io/badge/language-C++-<#F34B7D>.svg"/>
 
 
 Purpose
