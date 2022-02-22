@@ -43,14 +43,14 @@ Optional parameters:
     [1] : Obtain the initial conditions from a text file.
 
         example: 
-                ```
-                $ ./bin/gofSimulator 1
-                Please enter the file path:
-                >> ../Testing/Data/glider.txt
-                Please enter the number of generations:
-                >> 5
-                ...
-                ```
+```
+$ ./bin/gofSimulator 1
+Please enter the file path:
+>> ../Testing/Data/glider.txt
+Please enter the number of generations:
+>> 5
+...
+```
                 
     [2] : Starting with random cell contents for the initial conditions.
 
