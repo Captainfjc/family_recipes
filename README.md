@@ -43,6 +43,7 @@ Optional parameters:
     [1] : Obtain the initial conditions from a text file.
 
         example: 
+        
 ```
 $ ./bin/gofSimulator 1
 Please enter the file path:
