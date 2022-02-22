@@ -26,7 +26,7 @@ You may need to wait for a while when compiling and generating executable files.
 ## Usage
 --------
 
-1. Game of life simulator
+#### 1. Game of life simulator
 
 To use the simulator, you need to open the executable file:
 
