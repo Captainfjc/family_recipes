@@ -39,6 +39,7 @@ $ ./bin/gofSimulator [parameter]
 ```
 
 Optional parameters: 
+
     [1] : Obtain the initial conditions from a text file.
 
         example: 
